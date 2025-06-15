@@ -1,3 +1,61 @@
+<h1 align="center">👋 Olá, eu sou Joao Estanislau</h1>
+<h3 align="center">🧠 Engenheiro de Aprendizado de Máquina na CAIXA</h3>
+
+<p align="center">
+Sou Engenheiro de Aprendizado de Máquina e trabalho na CAIXA. Meu trabalho diário gira em torno da construção de modelos de Aprendizado de Máquina para diversos problemas interessantes e sua implementação em produção, em escala. Estou aberto a colaborar em projetos interessantes.
+</p>
+
+---
+
+### 🚀 Tecnologias e Ferramentas
+
+<p align="left">
+  <!-- Linguagens -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  
+  <!-- Frameworks / Bibliotecas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40"/>
+</p>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p>
+  <a href="https://github.com/joaoestanislau" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <!-- Adicione mais redes aqui -->
+</p>
+
+---
+
+### 📈 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoestanislau&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoestanislau&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+
+
 <!--## Olá! Eu sou Joao Estanislau 👋-->
 <h1>Olá, Eu sou João <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
@@ -49,11 +107,23 @@ These are some of the major technologies that I use or have worked on in the pas
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<h3>🛠️ Tecnologias</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <!-- Adicione outros aqui -->
+</p>
+
+
+
 <!-- <a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 - 🔭 Hoje eu trabalho com Investigação Digital Forence e Ciencias de Dados
 - 🌱 estou estudando Ciencias de Dados e Digital Forence ...
 - Sou engenheiro de aprendizado de máquina e trabalho na Peak . Meu trabalho diário envolve a construção de modelos de aprendizado de máquina para diversos problemas interessantes e sua implementação em produção em larga escala. Estou aberto a colaborar em projetos interessantes.
  - Estas são algumas das principais tecnologias que utilizo ou nas quais trabalhei no passado:
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoestanislaugomes)](https://github.com/joaoestanislaugomes/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoestanislaugomes&show_icons=true)
